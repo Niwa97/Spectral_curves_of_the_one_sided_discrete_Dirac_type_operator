@@ -1,0 +1,2 @@
+# Spectral_curves_of_the_one_sided_discrete_Dirac_type_operator
+Code for visualisation the complex spectrum of discrete Dirac-type operator
